@@ -1,7 +1,7 @@
 {
     "identifier": "com.pa.kasa.phantom_strike-server",
     "display_name": "Phantom Strike: Fake Commanders",
-    "description": "Mod gives your commander an ability to build cheaper but weaker, FAKE copies of itself. Phantoms are impossible to tell apart from the REAL commander and can replicate themselves, too. BEWARE of false 'commander health critically low' in-game alarms. Fully compatible with SW, Osmech and S17. Supports MLA faction only.",
+    "description": "Mod gives your commander the ability to build cheaper but weaker, FAKE copies of itself. Phantoms are impossible to tell apart from the REAL commander and can replicate themselves, too. BEWARE of false 'commander health critically low' in-game alarms. Fully compatible with SW, Osmech and S17. Supports MLA faction only.",
     "author": "kasa",
     "signature": " ",
     "priority": 100,

@@ -1,25 +1,25 @@
 {
     "identifier": "com.pa.kasa.phantom_strike-server",
     "display_name": "Phantom Strike: Fake Commanders",
-    "description": "Mod gives your commander an ability to build cheaper but weaker, FAKE copies of itself. Copies are impossible to tell apart from the REAL commander and can replicate themselves, too. BEWARE of false 'commander health critically low' in-game alarms. Fully compatible with SW, Osmech and S17. Supports MLA faction only.",
+    "description": "Mod gives your commander an ability to build cheaper but weaker, FAKE copies of itself. Phantoms are impossible to tell apart from the REAL commander and can replicate themselves, too. BEWARE of false 'commander health critically low' in-game alarms. Fully compatible with SW, Osmech and S17. Supports MLA faction only.",
     "author": "kasa",
     "signature": " ",
     "priority": 100,
-    "icon": " ",
-    "forum": " ",
-    "titansOnly": true,
-    "enabled": true,
-    "category": [
+    "icon": "https://raw.githubusercontent.com/kasa0246/phantom-strike/sub/icon.png",
+    "forum": "https://github.com/kasa0246/phantom-strike/discussions",
+    "category": 
+	[
         "addon",
         "unit",
-		"titans"
-    ],
+	"titans"
+    	],
     "context": "server",
     "date": "2024-11-24",
     "build": "120799",
     "version": "1.0.0",
-	"scenes": {
-    "new_game": ["coui://ui/mods/com.pa.kasa.phantom_strike-server/new_game.js"],
-	"shared_build":["coui://ui/mods/com.pa.kasa.phantom_strike-server/shared_build.js"]
-  }
+	"scenes": 
+	{
+    		"new_game": ["coui://ui/mods/com.pa.kasa.phantom_strike-server/new_game.js"],
+		"shared_build":["coui://ui/mods/com.pa.kasa.phantom_strike-server/shared_build.js"]
+  	}
 }

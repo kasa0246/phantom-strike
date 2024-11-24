@@ -1,0 +1,1 @@
+Mod gives your commander an ability to build cheaper but weaker, FAKE copies of itself. Copies are impossible to tell apart from the REAL commander and can replicate themselves, too. BEWARE of false 'commander health critically low' in-game alarms. Fully compatible with SW, Osmech and S17. Supports MLA faction only.

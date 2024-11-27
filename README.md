@@ -5,4 +5,4 @@ Description:
 Notes: 
 - Legion is not compatible with Osmech. Choose wisely.
 - Legion Phantoms use base game buildbar color theme, causing it to mix with legion one. Don't panic - it's a feature. :P
-- Pasting Legion Phantoms in sandbox mode when Legion is not enabled will cause a crash. 
+- Pasting Legion Phantoms in sandbox mode without Legion enabled in Community Mods will cause a crash. 

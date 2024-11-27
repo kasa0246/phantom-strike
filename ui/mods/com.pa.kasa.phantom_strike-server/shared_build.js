@@ -71,7 +71,14 @@ var newBuild = {
 	"/pa/units/commanders/tank_aeson/phantom_tank_aeson.json": ["phantom68", 12, {row: 2, column: 0}],
 	"/pa/units/commanders/tank_banditks/phantom_tank_banditks.json": ["phantom69", 12, {row: 2, column: 0}],
 	"/pa/units/commanders/tank_reaver/phantom_tank_reaver.json": ["phantom70", 12, {row: 2, column: 0}],
-	"/pa/units/commanders/tank_sadiga/phantom_tank_sadiga.json": ["phantom71", 12, {row: 2, column: 0}]
+	"/pa/units/commanders/tank_sadiga/phantom_tank_sadiga.json": ["phantom71", 12, {row: 2, column: 0}],
+
+	"/pa/units/commanders/l_overwatch/phantom_l_overwatch.json": ["L_phantom72", 12, {row: 2, column: 0}],
+    	"/pa/units/commanders/l_cyclops/phantom_l_cyclops.json": ["L_phantom73", 12, {row: 2, column: 0}],
+    	"/pa/units/commanders/l_cataphract/phantom_l_cataphract.json": ["L_phantom74", 12, {row: 2, column: 0}],
+    	"/pa/units/commanders/l_raptor/phantom_l_raptor.json": ["L_phantom75", 12, {row: 2, column: 0}],
+    	"/pa/units/commanders/l_quad/phantom_l_quad.json": ["L_phantom76", 12, {row: 2, column: 0}],
+    	"/pa/units/commanders/l_tank/phantom_l_tank.json": ["L_phantom77", 12, {row: 2, column: 0}]
 }
 if (Build && Build.HotkeyModel && Build.HotkeyModel.SpecIdToGridMap) {
     _.extend(Build.HotkeyModel.SpecIdToGridMap, newBuild);

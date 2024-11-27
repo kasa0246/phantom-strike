@@ -1,5 +1,11 @@
 {"units":[
-
+	"/pa/units/commanders/l_overwatch/phantom_l_overwatch.json",
+ "/pa/units/commanders/l_cyclops/phantom_l_cyclops.json",
+ "/pa/units/commanders/l_cataphract/phantom_l_cataphract.json",
+ "/pa/units/commanders/l_raptor/phantom_l_raptor.json",
+ "/pa/units/commanders/l_quad/phantom_l_quad.json",
+ "/pa/units/commanders/l_tank/phantom_l_tank.json",
+ 
  "/pa/units/commanders/imperial_able/phantom_imperial_able.json",
  "/pa/units/commanders/imperial_aceal/phantom_imperial_aceal.json",
  "/pa/units/commanders/imperial_alpha/phantom_imperial_alpha.json",
